@@ -1,0 +1,5 @@
+school_id,name,
+33-9516954,Rose International School,"INSERT INTO `student`.`school_tbl` (`school_id`, `name`) VALUES ('33-9516954', 'Rose International School')"
+45-0673066,SVP International School,
+02-6957378,Lotus Public School,
+04-5597628,SS Public School,
