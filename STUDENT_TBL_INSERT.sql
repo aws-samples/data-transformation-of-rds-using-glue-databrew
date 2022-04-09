@@ -597,7 +597,7 @@ INSERT INTO `student`.`student_tbl` (`student_id`, `first_name`, `last_name`, `g
 INSERT INTO `student`.`student_tbl` (`student_id`, `first_name`, `last_name`, `gender`, `age`) VALUES  ('597','Raj','Jain','M',12);
 INSERT INTO `student`.`student_tbl` (`student_id`, `first_name`, `last_name`, `gender`, `age`) VALUES  ('598','Suraj','Jain','M',14);
 INSERT INTO `student`.`student_tbl` (`student_id`, `first_name`, `last_name`, `gender`, `age`) VALUES  ('599','Sonali','Singh','F',10);
-INSERT INTO `student`.`student_tbl` (`student_id`, `first_name`, `last_name`, `gender`, `age`) VALUES  ('600','Kavya','Jain','F',10)
+INSERT INTO `student`.`student_tbl` (`student_id`, `first_name`, `last_name`, `gender`, `age`) VALUES  ('600','Kavya','Jain','F',10);
 
 
 
