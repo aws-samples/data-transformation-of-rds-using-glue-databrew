@@ -24,6 +24,7 @@ CREATE TABLE `student`.`study_details_tbl` (
   `internet` varchar(10) DEFAULT NULL,
   `country` varchar(20) DEFAULT NULL,
   `year` varchar(4) DEFAULT NULL,
+  `marks` int(4) DEFAULT NULL,
   PRIMARY KEY (`school_id`,`student_id`)
 ) ;
 
